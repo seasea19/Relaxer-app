@@ -2,7 +2,6 @@
  
  Relaxer app is a loosening up breathing application with a visual chief to let you know when to take in, hold and inhale out
 
-Submitted by: Chelsea Alcinord
 
 User Stories The following required functionality is completed:
 
